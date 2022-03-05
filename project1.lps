@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="9" Y="12"/>
+        <UsageCount Value="382"/>
+      </Unit>
+      <Unit>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Main"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="378"/>
+        <CursorPos X="72" Y="378"/>
+        <UsageCount Value="382"/>
+      </Unit>
+      <Unit>
+        <Filename Value="libs\uos\src\uos_flat.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="328"/>
+        <CursorPos X="10" Y="336"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1355"/>
+        <CursorPos X="17" Y="1381"/>
+        <UsageCount Value="17"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\opengl\src\gl.pp"/>
+        <UnitName Value="GL"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="1333"/>
+        <CursorPos X="34" Y="1347"/>
+        <UsageCount Value="14"/>
+      </Unit>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="main.pas"/>
+        <Line Value="319"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
